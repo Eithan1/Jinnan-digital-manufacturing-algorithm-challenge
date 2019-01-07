@@ -38,3 +38,9 @@
 
   算法：分别采用岭回归，带Bagging的岭回归，带AdaBoost的岭回归及XGBoost
   
+- Version3：
+
+  特征工程：‘时间-时间’特征转化为时间段，**单独时间直接用数值**
+
+  算法：分别采用岭回归，带Bagging的岭回归，带AdaBoost的岭回归及XGBoost
+  
