@@ -2,7 +2,7 @@
   ‘时间-时间’特征转化为时间段，单独时间直接用数值，去除所有样本都过度相似的特征，去除异常值特征
 
  ## 算法
- **用Lightgbm，gbdt和XGBoost进行stacking融合**
+ **用GridSearch调参，用Lightgbm，gbdt和XGBoost进行stacking融合**
  
  ## 代码
  
