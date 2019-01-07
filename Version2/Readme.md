@@ -5,4 +5,4 @@
 分别采用岭回归，带Bagging的岭回归，带AdaBoost的岭回归及XGBoost
 
 ## 代码
-‘津南（one-hot）.md’为代码文件
+‘津南（one-hot）.md’为代码文件，‘Pre_Calculate.py’为特征处理函数包
